@@ -1,0 +1,14 @@
+# Sample Authors
+# Remove file or replace with your own
+
+alayoalex:
+  name: Alexei Alayo
+  picture: /images/bio-photo-2.jpg
+  twitter: "@AlayoRondon"
+  links:
+    - title: Twitter
+      url: https://twitter.com/AlayoRondon
+      icon: fab fa-twitter-square
+    - title: GitHub
+      url: https://github.com/alayoalex
+      icon: fab fa-github-square
