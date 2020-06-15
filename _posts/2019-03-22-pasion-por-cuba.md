@@ -1,14 +1,14 @@
 ---
-title: "Python for maths"
+title: "Cuba es mi pasión"
 categories:
-  - curated-resources
+  - cuba
 tags:
-  - python
-  - maths
-date: 2019-03-22T16:22:17
+  - Cuba
+  - Economía
+date: 2020-06-15T16:22:17
 ---
 
-![sample plot]({{ '/images/euler.png' | absolute_url }}){: .align-center}
+![sample plot]({{ '../images/laalternativa-banner.jpg' | absolute_url }}){: .align-center}
 
 The above image was generated using `matplotlib` courtesy code provided by [Doing Math with Python](https://github.com/doingmathwithpython/code/blob/master/chapter2/Chapter2.ipynb) book.
 

@@ -20,8 +20,8 @@ locale: es
 title: "Engadi"
 description: " 'En tu luz veremos la luz'. Salmos 36.9"
 baseurl: # the subpath of your site, e.g. "/blog"
-url: "https://alayoalex.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-logo: "/images/logo-engadi.jpg" # path of site logo, e.g. "/images/logo.png"
+url: "https://laalternativa.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+logo: "/images/laalternativa.jpg" # path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
 read_time: true # reading time estimates, e.g. true
 words_per_minute: 100 # 200
@@ -37,10 +37,10 @@ google_fonts:
   - name: "Lora"
     weights: "400,400i,700,700i"
 
-google_analytics: "UA-159142172-1" #Google Analytics id, e.g. "UA-NNNNNNNN-N"
+#google_analytics: "UA-159142172-1" #Google Analytics id, e.g. "UA-NNNNNNNN-N"
 
-disqus:
-  shortname: "alexeialayorondn" # Disqus shortname, e.g. "my_disqus_shortname"
+#disqus:
+ # shortname: "alexeialayorondn" # Disqus shortname, e.g. "my_disqus_shortname"
 
 twitter:
   username: "AlayoRondon" # site's Twitter username, e.g. "mmistakes"
@@ -112,4 +112,4 @@ footer_links:
     url: atom.xml
     icon: fas fa-rss-square
 
-copyright: "This site is made with <3 by *me, myself, and I*."
+copyright: "This site is made by Engadi"

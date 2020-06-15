@@ -12,3 +12,33 @@ alayoalex:
     - title: GitHub
       url: https://github.com/alayoalex
       icon: fab fa-github-square
+
+
+eduardo:
+  name: Eduardo Yonni Torres
+  picture: /images/laalternativa.jpg
+  twitter: "@AlayoRondon"
+  links:
+    - title: Twitter
+      url: https://twitter.com/AlayoRondon
+      icon: fab fa-twitter-square
+
+
+jorge:
+  name: Jorge
+  picture: /images/laalternativa.jpg
+  twitter: "@AlayoRondon"
+  links:
+    - title: Twitter
+      url: https://twitter.com/AlayoRondon
+      icon: fab fa-twitter-square
+
+
+roylan:
+  name: Roylán
+  picture: /images/laalternativa.jpg
+  twitter: "@AlayoRondon"
+  links:
+    - title: Twitter
+      url: https://twitter.com/AlayoRondon
+      icon: fab fa-twitter-square
